@@ -1,0 +1,53 @@
+10% { 12
+    vzXJGRRaBCRt
+    cKyh4N4PNWMg
+    TSpho8KYrSyF
+    H1KDTL3mhWtF
+    4zRpgMrG94Vn
+    pXZSoRTm9mmr
+    IrgjNgd1GP93
+    sbs3Q7g8Wc0k
+    XSdRvt3idj3b
+    turdCu5o7gOk
+}
+20% { 15
+    xSxIRWw4GCkPreY
+    TpP3QF9AgseSje7
+    9zyoDNPOPcINM2N
+    QhqDT1hMYl0npkk
+    mGslTMjgoqSKddE
+    ZtevB61VYqKSXdP
+    VprwoaKflzECwNq
+    ElDBIHqlmgOOTAo
+    nPaECjjohHN7I16
+    ht1ucgziHS9pDkN
+}
+30% { 3
+    ZAxIO
+    giROW
+    TurGB
+    g0Bh4
+    E0clH
+    2CPre
+    aT8RO
+    hovUZ
+    Vn6WO
+    CUZbv
+}
+50 { 20
+    cjEtvox9eoVJxnc6nv2O
+    yWWqBbLGTfwXj4WOTe3v
+    FytA1nB2AO3yRx1h24O2
+    HI3Mp4Tl3WDDR8gSqX8a
+    1IYqoKMMrqt9McjzWoad
+}
+Free { 0
+    avIJYcKGDaK06BP9XjQKKGRGJ9CPh4Tyl2ewui0d
+    1Zo7EJFqWIy9S3ig3zmJzdkPVnAXWuoJEiKIgfAT
+    M0h3MdkXk0LLdnXaxtup2JjbCtUtQHG0jgtHWg5H
+    dlQCobUqIfbOoM3hF38EdRpfIhaEwSloxI2rVQPi
+}
+Free + 30Gb { 70
+    nR4U0TI9R1DFaL5wJkKqd8hQVVYijSRSGP3ItTBvjr4sf4LgjAY4xBmyvjH2ooYCqymCS
+    EoVdUmGtsSHqtUYuZFFqKUw2skWrnQRDKWnmpDfmW45Mod8efJQWgZiwW97gwentvmWV5
+}
